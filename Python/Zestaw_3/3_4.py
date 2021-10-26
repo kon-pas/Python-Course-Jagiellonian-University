@@ -11,4 +11,4 @@ def init_listening_print_cubed_number():
 			print(str(number) + '^3 = ' + str(number ** 3))
       
 if __name__ == "__main__":
-    init_listening_print_cubed_number()
+	    init_listening_print_cubed_number()
