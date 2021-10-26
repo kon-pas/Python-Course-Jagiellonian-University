@@ -1,4 +1,4 @@
-def print_ruler(length):
+def get_string_ruler(length):
 	img = '|'
     for e in range(0, length):
     	img += '....|'
@@ -8,4 +8,4 @@ def print_ruler(length):
 	return img
 
 if __name__ == "__main__":
- 	print_ruler(12)
+ 	print(get_string_ruler(12))
