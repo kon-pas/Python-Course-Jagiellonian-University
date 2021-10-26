@@ -6,4 +6,4 @@ def get_string_numbers_except_mod_3(limit):
 	return output
 
 if __name__ == "__main__":
-	  print(get_string_numbers_except_mod_3(30))
+	print(get_string_numbers_except_mod_3(30))
