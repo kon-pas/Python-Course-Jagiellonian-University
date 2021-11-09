@@ -22,6 +22,6 @@ def make_grid(rows, cols):
 
 if __name__ == '__main__':
 	print(make_ruler(12))
-    print(make_grid(8, 6))
+	print(make_grid(8, 6))
 
 	
