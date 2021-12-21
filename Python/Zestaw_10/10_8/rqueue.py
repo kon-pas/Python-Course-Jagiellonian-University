@@ -12,12 +12,13 @@ class RandomQueue:
 			self.n += 1
 
 	def remove(self):
-		self.n += -1
-		r = random.randint(0, self.n)
-		value = self.items[r]
-		self.items[r] = self.items[self.n]
-		self.items[self.n] = None
-		return	value
+		if self.is_empty() is False:
+			self.n += -1
+			r = random.randint(0, self.n)
+			value = self.items[r]
+			self.items[r] = self.items[self.n]
+			self.items[self.n] = None
+			return	value
 
 	def is_empty(self):
 		return self.n == 0
