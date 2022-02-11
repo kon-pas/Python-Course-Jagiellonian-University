@@ -1,4 +1,4 @@
-from fractals import special_characters, terminals
+from variables import *
 from Rule import *
 
 
