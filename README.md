@@ -2,14 +2,17 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Description](#description)
+- [About](#about)
+  - [Description](#description)
   - [Author](#author)
   - [Date](#date)
   - [Version](#version)
 - [Modules](#modules)
 - [Resources](#resources)
 
-## Description
+## About
+
+### Description
 
 Repository contains exercises made to learn Python and pass the Python Course at Jagiellonian University.
 
