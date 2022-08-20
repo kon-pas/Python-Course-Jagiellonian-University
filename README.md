@@ -3,12 +3,27 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [Description](#description)
+  - [Author](#author)
+  - [Date](#date)
+  - [Version](#version)
 - [Modules](#modules)
 - [Resources](#resources)
 
 ## Description
 
 Repository contains exercises made to learn Python and pass the Python Course at Jagiellonian University.
+
+### Author
+
+Konrad Pasternak
+
+### Date
+
+Q3, Q4 2021
+
+### Version
+
+Python 3.8.0
 
 ## Modules
 
